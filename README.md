@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 🌱 I'm Aarif, a compsci undergrad studying at UWA. 🌱
-Interested in web dev, game dev, animation and illustration.
+- Interested in web dev, game dev, animation and illustration.
 - I'm currently working on... RepairLab
 - Also currently working on... poke_swap

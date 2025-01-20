@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 🌱 I'm Aarif, a compsci undergrad studying at UWA. 🌱
 - Interested in web dev, game dev, animation and illustration.
-- I'm currently working on... RepairLab
+- I'm currently working on... The WAJO Quiz Platform
 - Also currently working on... poke_swap
